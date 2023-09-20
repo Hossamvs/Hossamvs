@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Hossam 👋🤖</h1>
 <p align="center">
-    <a href="https://hossamvs.com/"><img src="https://img.shields.io/static/v1?label=%20%20%20%20%20%20%20&logo=Sourcegraph&logoColor=white&message=Portfolio&color=black"/></a>
-    <a href="https://www.linkedin.com/in/hossam-elsayed-89067013b/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://hossamvs.com/" target="_blank"><img src="https://img.shields.io/static/v1?label=%20%20%20%20%20%20%20&logo=Sourcegraph&logoColor=white&message=Portfolio&color=black"/></a>
+    <a href="https://www.linkedin.com/in/hossam-elsayed-89067013b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
 
 I'm a fresh graduate bachelor degree in computer engineering. I am passionate about creating new technology to elevate people's lives. I love Full stack web development and Robotics.
